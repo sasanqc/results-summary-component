@@ -1,0 +1,28 @@
+*,
+*::after,
+*::before {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+ul,
+ol {
+  list-style: none;
+}
+button,
+input,
+textarea,
+select {
+  font: inherit;
+}
+a,
+a:link,
+a:visited {
+  text-decoration: none;
+  display: inline-block;
+}
+/* typography */

@@ -1,0 +1,22 @@
+:root {
+  --color-gradient1: linear-gradient(
+    180deg,
+    #7755ff 0%,
+    #6943ff 0.01%,
+    #2f2ce9 100%
+  );
+  --color-gradient2: linear-gradient(
+    180deg,
+    #4d21c9 0%,
+    rgba(37, 33, 201, 0) 100%,
+    rgba(37, 33, 201, 0) 100%
+  );
+  --color-yellow: #ffb21e;
+  --color-blue: #1125d6;
+  --color-green: #00bb8f;
+  --color-red: #ff5555;
+  --color-dark-navy: #303b59;
+  --color-light-blue: #cac9ff;
+  --color-very-light-blue: #ecf2ff;
+  --color-white: #ffffff;
+}
