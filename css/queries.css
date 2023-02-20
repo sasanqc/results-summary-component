@@ -1,0 +1,56 @@
+@media screen and (max-width: 410px) {
+  body {
+    margin-top: 0;
+  }
+  .card {
+    grid-template-columns: repeat(1, 1fr);
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+  }
+  .result {
+    border-top-right-radius: 0;
+    border-top-left-radius: 0;
+    padding: 2.4rem;
+  }
+  .heading-xl {
+    font-size: 5.6rem;
+    line-height: 7.2rem;
+  }
+  .heading-l {
+    font-size: 2.4rem;
+    line-height: 3.2rem;
+  }
+  .heading-m {
+    font-size: 1.8rem;
+    line-height: 2.3rem;
+  }
+  .body-b {
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+  }
+  .body {
+    font-size: 1.6rem;
+    line-height: 2.1rem;
+  }
+  .result__title {
+    margin-bottom: 2.4rem;
+  }
+  .result__value {
+    width: 14rem;
+    height: 14rem;
+    margin-bottom: 2.4rem;
+  }
+  .result__status {
+    margin-bottom: 0.8rem;
+  }
+  .summary {
+    padding: 2.4rem 3rem;
+  }
+
+  .summary__title {
+    margin-bottom: 2.4rem;
+  }
+  .summary__details {
+    margin-bottom: 2.4rem;
+  }
+}

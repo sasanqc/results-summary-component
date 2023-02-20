@@ -12,9 +12,34 @@
     rgba(37, 33, 201, 0) 100%
   );
   --color-yellow: #ffb21e;
+  --color-yellow-white: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.95)
+    ),
+    #ffb21e;
   --color-blue: #1125d6;
+  --color-blue-white: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.95)
+    ),
+    #1125d6;
   --color-green: #00bb8f;
+  --color-green-white: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.95)
+    ),
+    #00bb8f;
   --color-red: #ff5555;
+  --color-red-white: linear-gradient(
+      0deg,
+      rgba(255, 255, 255, 0.95),
+      rgba(255, 255, 255, 0.95)
+    ),
+    #ff5555;
+
   --color-dark-navy: #303b59;
   --color-light-blue: #cac9ff;
   --color-very-light-blue: #ecf2ff;
